@@ -2,7 +2,9 @@
 
 TinkerCard is a 3D design and modeling tool widely used by students, educators, and design enthusiasts. While it is primarily a web-based application, you can access and use it on your PC for a better experience. This guide walks you through the process of using TinkerCard on your Windows PC, its features, and system requirements.
 
----
+⏬🌐🌐📌[Download TinkerCard App](https://gyaniadda.com/tinkercard-app/)⏬🌐🌐📌<br>
+⏬🌐🌐📌[Download TinkerCard App](https://gyaniadda.com/tinkercard-app/)⏬🌐🌐📌
+
 
 ## What is TinkerCard?
 
@@ -13,7 +15,8 @@ TinkerCard is an online 3D modeling application that allows users to:
 - Teach and learn STEM concepts effectively.
 
 ---
-
+⏬🌐🌐📌[Download TinkerCard App](https://gyaniadda.com/tinkercard-app/)⏬🌐🌐📌<br>
+⏬🌐🌐📌[Download TinkerCard App](https://gyaniadda.com/tinkercard-app/)⏬🌐🌐📌
 ## Why Use TinkerCard on PC?
 
 Using TinkerCard on a PC provides:
@@ -59,8 +62,8 @@ Using TinkerCard on a PC provides:
 - **Storage:** 2 GB or more free space
 - **Display:** Full HD resolution or higher
 
----
-
+⏬🌐🌐📌[Download TinkerCard App](https://gyaniadda.com/tinkercard-app/)⏬🌐🌐📌<br>
+⏬🌐🌐📌[Download TinkerCard App](https://gyaniadda.com/tinkercard-app/)⏬🌐🌐📌
 ## Benefits of TinkerCard in Education and Careers
 - **Academic Use:** Simplifies 3D modeling for students and teachers.
 - **STEM Learning:** Teaches physics, geometry, and engineering.
